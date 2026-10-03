@@ -23,5 +23,28 @@
 | **Data Science** | Statistics, Data Analysis, Python for Data Science |
 | **Tools** | Git, GitHub, VS Code |
 | **Currently Exploring** | Artificial Intelligence, Machine Learning, Advanced DSA, Software Development |
----
 
+---
+### Featured Repositories
+####shyambg110-bot (Shyam S) https://share.google/xZXsMiw8oEfJbvB1V
+•⁠  ⁠Includes my Statistics-I learning activities and academic work.
+•⁠  ⁠Documents my understanding of statistical concepts and learning reflections.
+•⁠  ⁠⁠ Statistics ⁠ • ⁠ Data Science ⁠ • ⁠ Academic Portfolio ⁠ • ⁠ Learning 
+
+---
+#### Offline-First Disaster Communication Network
+*Hackathon-oriented project exploring communication during disasters, when conventional infrastructure may be unavailable.*
+* Focused on resilient communication where networks are down.
+* `Networking` • `CSE` • `Disaster Management` • `Hackathon`
+
+---
+### Education
+* **B.E. — Computer Science and Engineering** — *St. Joseph's College of Engineering*
+---
+### What I'm Currently Working On
+* Strengthening programming fundamentals
+* Learning and implementing Data Structures & Algorithms
+* Building my Data Science foundation
+* Exploring Artificial Intelligence & Machine Learning
+* Developing practical projects and participating in hackathons
+---

@@ -19,8 +19,7 @@
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | C, Python |
-| **Computer Science** | Data Structures & Algorithms, Problem Solving, Algorithm Design, Programmin
-g Fundamentals |
+| **Computer Science** | Data Structures & Algorithms, Problem Solving, Algorithm Design, Programming Fundamentals |
 | **Data Science** | Statistics, Data Analysis, Python for Data Science |
 | **Tools** | Git, GitHub, VS Code |
 | **Currently Exploring** | Artificial Intelligence, Machine Learning, Advanced DSA, Software Development |
